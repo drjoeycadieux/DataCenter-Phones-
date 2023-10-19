@@ -18,7 +18,7 @@ body {
   background-color: #53422d;
 }
 
-.title > .text {
+.title>.text {
   font-weight: bold;
   font-family: sans-serif;
   display: inline;
